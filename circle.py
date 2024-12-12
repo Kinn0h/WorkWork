@@ -18,6 +18,6 @@ def perimeter(r):
     takes the radius of a circle
     returns the perimeter
     example of usage:
-    area(10) = 62.83185307179586
+    perimeter(10) = 62.83185307179586
     '''
     return 2 * math.pi * r
